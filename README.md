@@ -1,1 +1,1 @@
-# TRAB_POO2_JOGOS
+# Trabalho de POO2 do primeiro bimestre com Vinicius Rosalem
